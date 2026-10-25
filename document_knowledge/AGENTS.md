@@ -3,8 +3,8 @@
 ## Purpose
 
 Base of the OCA knowledge modules: the Knowledge app menu and the knowledge user and
-manager groups that `document_page` and the other modules of the repository build on.
-It has no models of its own.
+manager groups that `document_page` and the other modules of the repository build on. It
+has no models of its own.
 
 ## Notes for 20.0
 
